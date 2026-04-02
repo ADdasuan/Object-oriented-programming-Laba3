@@ -1,0 +1,500 @@
+{
+  "section_data_collection": {
+    "informatics": {
+      "initial_moderator_login_string": "Komarov",
+      "participant_login_list": ["Komarov", "Muxa", "Skitev", "Bazarov", "Bobrovnikov", "Valova"],
+      "section_name_string": "informatics"
+    },
+    "unix": {
+      "initial_moderator_login_string": "Ovcharenko",
+      "participant_login_list": ["Ovcharenko", "Doroshin", "Firrer", "Gromov", "Ignatov", "Kozlov"],
+      "section_name_string": "unix"
+    },
+    "IBM": {
+      "initial_moderator_login_string": "Shevtsov",
+      "participant_login_list": ["Shevtsov", "Meleshkin", "Krasnov", "Liu", "Morozov", "Ponomareva"],
+      "section_name_string": "IBM"
+    },
+    "Data Sience": {
+      "initial_moderator_login_string": "Dmitriev",
+      "participant_login_list": ["Dmitriev", "Sinelnikov", "Chepik", "Ryneyskaya", "Soldatkin", "Khamatov"],
+      "section_name_string": "Data Sience"
+    },
+    "Theory of automata": {
+      "initial_moderator_login_string": "Abdulpatakhov",
+      "participant_login_list": ["Abdulpatakhov", "Aflyatunov", "Bochin", "Vlasenko", "Eliseev", "Kaletkin"],
+      "section_name_string": "Theory of automata"
+    },
+    "Circuit design": {
+      "initial_moderator_login_string": "Knakis",
+      "participant_login_list": ["Knakis", "Kushkalov", "Lempert", "Markovtsev", "Mochulsky", "Nazukov"],
+      "section_name_string": "Circuit design"
+    },
+    "Electronics": {
+      "initial_moderator_login_string": "Petrovsky",
+      "participant_login_list": ["Petrovsky", "Rozhkov", "Rubleva", "Tayanchin", "Filippov", "Alibekova"],
+      "section_name_string": "Electronics"
+    },
+    "AiSD": {
+      "initial_moderator_login_string": "Sein",
+      "participant_login_list": ["Sein", "Maximov", "Novikov", "Gaspariunas", "Agibalov", "Dyumin"],
+      "section_name_string": "AiSD"
+    },
+    "The assembler": {
+      "initial_moderator_login_string": "Mod_extra1",
+      "participant_login_list": ["Mod_extra1", "User_extra1", "Troll_extra1", "User_extra2", "Troll_extra2", "Mod_extra2"],
+      "section_name_string": "The assembler"
+    },
+    "Engineering graphics": {
+      "initial_moderator_login_string": "Bazarov2",
+      "participant_login_list": ["Bazarov2", "Bobrovnikov2", "Valova2", "Gromov2", "Ignatov2", "Kozlov2"],
+      "section_name_string": "Engineering graphics"
+    },
+    "The torture chamber": {
+      "initial_moderator_login_string": "Krasnov2",
+      "participant_login_list": ["Krasnov2", "Liu2", "Morozov2", "Ponomareva2", "Ryneyskaya2", "Soldatkin2"],
+      "section_name_string": "The torture chamber"
+    },
+    "Koons camera": {
+      "initial_moderator_login_string": "Khamatov2",
+      "participant_login_list": ["Khamatov2", "Abdulpatakhov2", "Aflyatunov2", "Bochin2", "Vlasenko2", "Eliseev2"],
+      "section_name_string": "Koons camera"
+    },
+    "Chesnokova's lab": {
+      "initial_moderator_login_string": "Chesnokova",
+      "participant_login_list": ["Chesnokova", "Kaletkin2", "Knakis2", "Kushkalov2", "Lempert2", "Markovtsev2"],
+      "section_name_string": "Chesnokova's lab"
+    }
+  },
+  "user_data_collection": {
+    "Komarov": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 9,
+      "registration_time_formatted": "2026-02-04 10:00:00",
+      "total_messages_count": 45,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Komarov"
+    },
+    "Muxa": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:05:00",
+      "total_messages_count": 23,
+      "troll_success_score": 3,
+      "troll_width_value": 0.8,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Muxa"
+    },
+    "Skitev": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:10:00",
+      "total_messages_count": 18,
+      "user_category_string": "regular_user",
+      "user_login_string": "Skitev"
+    },
+    "Dmitriev": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 7,
+      "registration_time_formatted": "2026-02-04 10:15:00",
+      "total_messages_count": 32,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Dmitriev"
+    },
+    "Sinelnikov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:20:00",
+      "total_messages_count": 12,
+      "troll_success_score": 5,
+      "troll_width_value": 0.9,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Sinelnikov"
+    },
+    "Chepik": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:25:00",
+      "total_messages_count": 28,
+      "user_category_string": "regular_user",
+      "user_login_string": "Chepik"
+    },
+    "Ovcharenko": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 8,
+      "registration_time_formatted": "2026-02-04 10:30:00",
+      "total_messages_count": 37,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Ovcharenko"
+    },
+    "Doroshin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:35:00",
+      "total_messages_count": 15,
+      "troll_success_score": 2,
+      "troll_width_value": 0.6,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Doroshin"
+    },
+    "Firrer": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:40:00",
+      "total_messages_count": 21,
+      "user_category_string": "regular_user",
+      "user_login_string": "Firrer"
+    },
+    "Alibekova": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 6,
+      "registration_time_formatted": "2026-02-04 10:45:00",
+      "total_messages_count": 29,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Alibekova"
+    },
+    "Sein": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:50:00",
+      "total_messages_count": 14,
+      "troll_success_score": 4,
+      "troll_width_value": 0.7,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Sein"
+    },
+    "Maximov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 10:55:00",
+      "total_messages_count": 26,
+      "user_category_string": "regular_user",
+      "user_login_string": "Maximov"
+    },
+    "Shevtsov": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 10,
+      "registration_time_formatted": "2026-02-04 11:00:00",
+      "total_messages_count": 52,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Shevtsov"
+    },
+    "Meleshkin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:05:00",
+      "total_messages_count": 17,
+      "troll_success_score": 6,
+      "troll_width_value": 0.85,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Meleshkin"
+    },
+    "Chesnokova": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 2,
+      "registration_time_formatted": "2026-02-04 11:10:00",
+      "total_messages_count": 48,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Chesnokova"
+    },
+    "Novikov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:15:00",
+      "total_messages_count": 19,
+      "troll_success_score": 3,
+      "troll_width_value": 0.75,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Novikov"
+    },
+    "Gaspariunas": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 5,
+      "registration_time_formatted": "2026-02-04 11:20:00",
+      "total_messages_count": 24,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Gaspariunas"
+    },
+    "Dyumin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:25:00",
+      "total_messages_count": 35,
+      "troll_success_score": 0,
+      "troll_width_value": 0.7,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Dyumin"
+    },
+    "Agibalov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:30:00",
+      "total_messages_count": 16,
+      "troll_success_score": 7,
+      "troll_width_value": 0.95,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Agibalov"
+    },
+    "Bazarov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:35:00",
+      "total_messages_count": 10,
+      "user_category_string": "regular_user",
+      "user_login_string": "Bazarov"
+    },
+    "Bobrovnikov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:40:00",
+      "total_messages_count": 12,
+      "user_category_string": "regular_user",
+      "user_login_string": "Bobrovnikov"
+    },
+    "Valova": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:45:00",
+      "total_messages_count": 8,
+      "user_category_string": "regular_user",
+      "user_login_string": "Valova"
+    },
+    "Gromov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:50:00",
+      "total_messages_count": 15,
+      "user_category_string": "regular_user",
+      "user_login_string": "Gromov"
+    },
+    "Ignatov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 11:55:00",
+      "total_messages_count": 11,
+      "user_category_string": "regular_user",
+      "user_login_string": "Ignatov"
+    },
+    "Kozlov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:00:00",
+      "total_messages_count": 9,
+      "user_category_string": "regular_user",
+      "user_login_string": "Kozlov"
+    },
+    "Krasnov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:05:00",
+      "total_messages_count": 14,
+      "user_category_string": "regular_user",
+      "user_login_string": "Krasnov"
+    },
+    "Liu": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:10:00",
+      "total_messages_count": 13,
+      "user_category_string": "regular_user",
+      "user_login_string": "Liu"
+    },
+    "Morozov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:15:00",
+      "total_messages_count": 16,
+      "user_category_string": "regular_user",
+      "user_login_string": "Morozov"
+    },
+    "Ponomareva": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:20:00",
+      "total_messages_count": 10,
+      "user_category_string": "regular_user",
+      "user_login_string": "Ponomareva"
+    },
+    "Ryneyskaya": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:25:00",
+      "total_messages_count": 11,
+      "user_category_string": "regular_user",
+      "user_login_string": "Ryneyskaya"
+    },
+    "Soldatkin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:30:00",
+      "total_messages_count": 12,
+      "user_category_string": "regular_user",
+      "user_login_string": "Soldatkin"
+    },
+    "Khamatov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:35:00",
+      "total_messages_count": 9,
+      "user_category_string": "regular_user",
+      "user_login_string": "Khamatov"
+    },
+    "Abdulpatakhov": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 5,
+      "registration_time_formatted": "2026-02-04 12:40:00",
+      "total_messages_count": 20,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Abdulpatakhov"
+    },
+    "Aflyatunov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:45:00",
+      "total_messages_count": 15,
+      "user_category_string": "regular_user",
+      "user_login_string": "Aflyatunov"
+    },
+    "Bochin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:50:00",
+      "total_messages_count": 12,
+      "user_category_string": "regular_user",
+      "user_login_string": "Bochin"
+    },
+    "Vlasenko": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 12:55:00",
+      "total_messages_count": 14,
+      "user_category_string": "regular_user",
+      "user_login_string": "Vlasenko"
+    },
+    "Eliseev": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:00:00",
+      "total_messages_count": 11,
+      "user_category_string": "regular_user",
+      "user_login_string": "Eliseev"
+    },
+    "Kaletkin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:05:00",
+      "total_messages_count": 10,
+      "troll_success_score": 2,
+      "troll_width_value": 0.5,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Kaletkin"
+    },
+    "Knakis": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 6,
+      "registration_time_formatted": "2026-02-04 13:10:00",
+      "total_messages_count": 22,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Knakis"
+    },
+    "Kushkalov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:15:00",
+      "total_messages_count": 18,
+      "troll_success_score": 3,
+      "troll_width_value": 0.6,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Kushkalov"
+    },
+    "Lempert": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:20:00",
+      "total_messages_count": 16,
+      "troll_success_score": 4,
+      "troll_width_value": 0.8,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Lempert"
+    },
+    "Markovtsev": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:25:00",
+      "total_messages_count": 14,
+      "troll_success_score": 5,
+      "troll_width_value": 0.9,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Markovtsev"
+    },
+    "Mochulsky": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:30:00",
+      "total_messages_count": 13,
+      "user_category_string": "regular_user",
+      "user_login_string": "Mochulsky"
+    },
+    "Nazukov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:35:00",
+      "total_messages_count": 12,
+      "user_category_string": "regular_user",
+      "user_login_string": "Nazukov"
+    },
+    "Petrovsky": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 7,
+      "registration_time_formatted": "2026-02-04 13:40:00",
+      "total_messages_count": 25,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Petrovsky"
+    },
+    "Rozhkov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:45:00",
+      "total_messages_count": 17,
+      "user_category_string": "regular_user",
+      "user_login_string": "Rozhkov"
+    },
+    "Rubleva": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:50:00",
+      "total_messages_count": 15,
+      "user_category_string": "regular_user",
+      "user_login_string": "Rubleva"
+    },
+    "Tayanchin": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 13:55:00",
+      "total_messages_count": 14,
+      "user_category_string": "regular_user",
+      "user_login_string": "Tayanchin"
+    },
+    "Filippov": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 14:00:00",
+      "total_messages_count": 13,
+      "user_category_string": "regular_user",
+      "user_login_string": "Filippov"
+    },
+    "Mod_extra1": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 4,
+      "registration_time_formatted": "2026-02-04 14:05:00",
+      "total_messages_count": 18,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Mod_extra1"
+    },
+    "Markovtsev2": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 14:10:00",
+      "total_messages_count": 18,
+      "troll_success_score": 3,
+      "troll_width_value": 0.8,
+      "user_category_string": "forum_troll",
+      "user_login_string": "User_extra1"
+    },
+    "Kaletkin2": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 14:15:00",
+      "total_messages_count": 8,
+      "troll_success_score": 1,
+      "troll_width_value": 0.4,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Troll_extra1"
+    },
+    "Lempert2": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 14:20:00",
+      "total_messages_count": 8,
+      "troll_success_score": 6,
+      "troll_width_value": 0.9,
+      "user_category_string": "forum_troll",
+      "user_login_string": "User_extra2"
+    },
+    "Knakis2": {
+      "current_activity_status": "online",
+      "registration_time_formatted": "2026-02-04 14:25:00",
+      "total_messages_count": 9,
+      "troll_success_score": 2,
+      "troll_width_value": 0.3,
+      "user_category_string": "forum_troll",
+      "user_login_string": "Troll_extra2"
+    },
+    "Mod_extra2": {
+      "current_activity_status": "online",
+      "moderator_reason_level": 5,
+      "registration_time_formatted": "2026-02-04 14:30:00",
+      "total_messages_count": 20,
+      "user_category_string": "forum_moderator",
+      "user_login_string": "Mod_extra2"
+    }
+  }
+}
