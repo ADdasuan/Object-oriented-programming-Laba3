@@ -103,8 +103,3 @@ The labs completed as part of the "Object-oriented programming" course for the 3
 ### Динамическая загрузка (плагины)
 - Наследники расширяемого класса (например, `SpecialModerator`, `EliteTroll`) вынесены в `.so`/`.dll`.
 - Программа загружает все библиотеки из указанного каталога при запуске.
-
-
----
-
-## 📐 Архитектура (MVC/MVP)
